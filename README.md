@@ -1,6 +1,7 @@
 # deno-jpsum
 
-いい感じのサンプルテキストが作れるCLIツール powered by [Lorem JPsum \| 自然な日本語ダミーテキストを自動生成](https://lorem-jpsum.vercel.app/)
+いい感じのサンプルテキストが作れるCLIツール powered by
+[Lorem JPsum \| 自然な日本語ダミーテキストを自動生成](https://lorem-jpsum.vercel.app/)
 
 [Lorem JPsum](https://lorem-jpsum.vercel.app/)のAPIを利用しています。
 
