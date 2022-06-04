@@ -1,5 +1,3 @@
-#!/usr/bin/env -S deno --unstable --allow-net --allow-run
-
 import { Number, Select, Toggle, prompt, bold, green, brightBlue, writeAll } from './deps.ts'
 import { getJpSum } from "./api.ts";
 import { Params } from "./types.d.ts"
